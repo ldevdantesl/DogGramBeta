@@ -53,6 +53,7 @@
 		DA4D7A2A2B77BF6000E9A3BC /* FirebasePerformance in Frameworks */ = {isa = PBXBuildFile; productRef = DA4D7A292B77BF6000E9A3BC /* FirebasePerformance */; };
 		DA4D7A2C2B77BF6000E9A3BC /* FirebaseRemoteConfig in Frameworks */ = {isa = PBXBuildFile; productRef = DA4D7A2B2B77BF6000E9A3BC /* FirebaseRemoteConfig */; };
 		DA4D7A2E2B77BF6000E9A3BC /* FirebaseRemoteConfigSwift in Frameworks */ = {isa = PBXBuildFile; productRef = DA4D7A2D2B77BF6000E9A3BC /* FirebaseRemoteConfigSwift */; };
+		DA4D7A302B77C0C100E9A3BC /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = DA4D7A2F2B77C0C100E9A3BC /* .gitignore */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -87,6 +88,7 @@
 		DA4D7A072B77B6D000E9A3BC /* PostViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostViewModel.swift; sourceTree = "<group>"; };
 		DA4D7A092B77BCCE00E9A3BC /* DogGram.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = DogGram.entitlements; sourceTree = "<group>"; };
 		DA4D7A0A2B77BD4900E9A3BC /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
+		DA4D7A2F2B77C0C100E9A3BC /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -230,6 +232,7 @@
 			children = (
 				DA4D79C32B77B06A00E9A3BC /* DogGramApp.swift */,
 				DA4D7A0A2B77BD4900E9A3BC /* GoogleService-Info.plist */,
+				DA4D7A2F2B77C0C100E9A3BC /* .gitignore */,
 			);
 			path = App;
 			sourceTree = "<group>";
@@ -314,6 +317,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				DA4D7A302B77C0C100E9A3BC /* .gitignore in Resources */,
 				DA4D79CB2B77B06B00E9A3BC /* Preview Assets.xcassets in Resources */,
 				DA4D79C82B77B06B00E9A3BC /* Assets.xcassets in Resources */,
 				DA4D7A0B2B77BD4900E9A3BC /* GoogleService-Info.plist in Resources */,
